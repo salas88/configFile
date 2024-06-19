@@ -1,0 +1,14 @@
+my:
+  gretings: Hello from cloud
+  list:
+    values: One,Two,Three
+
+app:
+  name: My App
+  description: Welcome to ${app.name}
+  
+  
+db:
+  connection: connection from cloud
+  host: host
+  port: 8181
